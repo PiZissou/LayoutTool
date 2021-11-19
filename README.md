@@ -29,7 +29,7 @@ It helps layouter to :
   - LayoutTool = ST_layoutTool()
 
 
-![alt text](screenshot.png)
+![alt text](Capture_LayoutTool.png)
 
 # LayoutToolSync
 
