@@ -9,18 +9,18 @@ DATE: 2019-2021<br />
 
 # What is it?
 
-	Layout is a window tool created for 3dsmax 2019-2021.
-	It helps layouters to : 
+LayoutTool is a window tool created for 3dsmax 2019-2021.
+It helps layouter to : 
   - apply settings to camera ( focus, lenght, etc...).
   - make shake cam.
   - make preview with options ( lights, guides, etc...).
   ...
 
 # Install & Loading 
-	/!\ Warning, this project needs externals TAT libraries that might not be included. 
-	
-	- copy LayoutTool folder  to [yourCustomPath]
-	- the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the loader of the project
+/!\ Warning, this project needs externals TAT libraries that might not be included. 
+
+  - copy LayoutTool folder  to [yourCustomPath]
+  - the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the loader of the project
 	
 # API
 
@@ -35,7 +35,7 @@ DATE: 2019-2021<br />
 
 Copyright (c) TATProductions.
 
-DESCRIPTION: Tool for Layout department. Allow to syncronize local / network layouters's datas.<br />
+DESCRIPTION: Script auto executed for Layout department. Allow to syncronize local / network layouter's datas.<br />
 AUTHOR: Pierre Lasbignes<br />
 DATE: 2021<br />
 
