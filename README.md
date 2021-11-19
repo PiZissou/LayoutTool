@@ -20,7 +20,7 @@ It helps layouter to :
 /!\ Warning, this project needs externals TAT libraries that might not be included. 
 
   - copy LayoutTool folder  to [yourCustomPath]
-  - the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the loader of the project
+  - the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the project's loader.
 	
 # API
 
@@ -29,7 +29,7 @@ It helps layouter to :
   - LayoutTool = ST_layoutTool()
 
 
-![alt text](screenshot.png)
+![alt text](Capture_LayoutTool.PNG)
 
 # LayoutToolSync
 
@@ -51,6 +51,6 @@ DATE: 2021<br />
 # Install & Loading 
 
 - Within 3dsmax, it will be loaded with LayoutTool.
-- the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the loader of the project
+- the commande "fileIn	[yourCustomPath]\LayoutTool\LayoutTool.ms"  will execute the file. This is the project's loader.
 
 - Wihout 3dsmax, you can execute TatSyncbatch.py with VSCode for example. 
